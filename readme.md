@@ -21,5 +21,9 @@ gui.py는 모델을 활용해 직접가위바위보를 할 수 있도록 하는 
 game_Log.txt, lastshot.jpg(마지막으로 사용자가 낸 손) 생성
 
 # 필요한 라이브러리
+from keras.preprocessing import image
+import tensorflow
+import numpy
+from PIL import ImageFile
 pip install opencv-python # 4.5.5.64
 pip install pillow
