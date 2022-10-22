@@ -22,6 +22,7 @@ game_Log.txt, lastshot.jpg(마지막으로 사용자가 낸 손) 생성
 
 # 필요한 라이브러리
 > from keras.preprocessing import image
+> 
 > import tensorflow
 > import numpy
 > from PIL import ImageFile
