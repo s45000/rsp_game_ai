@@ -6,6 +6,7 @@ training,valid,test 데이터셋을 모두 설치하고 save_npdata.py실행 위
 > 1. paper
 > 2. rock
 > 3. scissors
+
 형태가 되도록 하고, 각 폴더 내에 가위바위보 이미지들을 정리해둔 후 save_npdata.py를 실행시키면
 train_data_imageSize.npy, train_label_imageSize.npy
 valid_data_imageSize.npy, valid_label_imageSize.npy
